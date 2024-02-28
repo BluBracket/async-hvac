@@ -24,7 +24,7 @@ setup(
     classifiers=['License :: OSI Approved :: Apache Software License'],
     packages=find_packages(),
     install_requires=[
-        'aiohttp==3.8.4',
+        'aiohttp==3.9.3',
         'importlib-metadata>=0.12',
     ],
     include_package_data=True,
