@@ -1,2 +1,2 @@
-aiohttp==3.9.3
+aiohttp==3.10.5
 pyhcl==0.3.10
